@@ -157,7 +157,8 @@ We'll be working on GitHub since I will be working on a team of 5 and the team i
 
 ## 3
 
-1. While be using VScode as our main developing environment we also installed some useful extensions to help us make things easier for us 
+1. we'll be using VScode as our main developing environment, we also have installed some useful extensions to help us make things easier for us 
+
 List of extensions :
 * [Deprecated] Debugger for Chrome
 * Remote - WSL
