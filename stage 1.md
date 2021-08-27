@@ -14,11 +14,12 @@ Here’s a list of risks we might face during the development for our web pages:
 ***
 ## 3 
 1. List of requirement to get our website running :
-A home page to welcome the user 
-A store page holding the Items that are up for sale and add them into an array
-A cart that saves Items from store that are added 
-A cancel and buy buttons to buy or cancel the order 
-A payment pop up to enter your card info	
+
+* A home page to welcome the user 
+* A store page holding the Items that are up for sale and add them into an array
+*  cart that saves Items from store that are added 
+* A cancel and buy buttons to buy or cancel the order 
+* A payment pop up to enter your card info	
 
 ***
 
